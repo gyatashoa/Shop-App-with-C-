@@ -1,0 +1,13 @@
+C:\Users\Felix\source\repos\Shop App\Shop App\bin\Debug\Shop App.exe.config
+C:\Users\Felix\source\repos\Shop App\Shop App\bin\Debug\Shop App.exe
+C:\Users\Felix\source\repos\Shop App\Shop App\bin\Debug\Shop App.pdb
+C:\Users\Felix\source\repos\Shop App\Shop App\obj\Debug\Shop App.csprojAssemblyReference.cache
+C:\Users\Felix\source\repos\Shop App\Shop App\obj\Debug\Shop_App.Form1.resources
+C:\Users\Felix\source\repos\Shop App\Shop App\obj\Debug\Shop_App.Properties.Resources.resources
+C:\Users\Felix\source\repos\Shop App\Shop App\obj\Debug\Shop App.csproj.GenerateResource.cache
+C:\Users\Felix\source\repos\Shop App\Shop App\obj\Debug\Shop App.csproj.CoreCompileInputs.cache
+C:\Users\Felix\source\repos\Shop App\Shop App\obj\Debug\Shop App.exe
+C:\Users\Felix\source\repos\Shop App\Shop App\obj\Debug\Shop App.pdb
+C:\Users\Felix\source\repos\Shop App\Shop App\bin\Debug\Guna.UI.dll
+C:\Users\Felix\source\repos\Shop App\Shop App\obj\Debug\Shop App.csproj.CopyComplete
+C:\Users\Felix\source\repos\Shop App\Shop App\obj\Debug\Shop_App.mainForm.resources
