@@ -25,7 +25,7 @@ namespace Shop_App
         private void gunaButton1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            //mainForm.;
+            new mainForm().Show();
         }
     }
 }
